@@ -67,5 +67,5 @@ firebase = pyrebase.initialize_app(firebaseConfig)
 db = firebase.database()
 ```
 
-<h2><strong>So now your firebase realtime database is connected to your python application.<\strong><\h2>
+<h2><strong>So now your firebase realtime database is connected to your python application.</strong></h2>
 
